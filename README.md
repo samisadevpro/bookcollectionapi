@@ -5,17 +5,12 @@
 
 ## ✅ Features Implemented
 
-MongoDB Atlas Connection
-
-Express Server Setup
-
-Schema Validation with Mongoose
-
-Create (POST) Book Operation
-
-JSON Request Handling
-
-GitHub Integration (without node_modules)
+- MongoDB Atlas Connection
+- Express Server Setup
+- Schema Validation with Mongoose
+- Create (POST) Book Operation
+- JSON Request Handling
+- GitHub Integration (without node_modules)
 
 ## 📂 Project Structure
 
@@ -64,8 +59,8 @@ npm start
 POST /api/books
 Add a new book to the collection.
 
-##🔻 Example Request Body (JSON)
-
+## 🔻Example Request Body (JSON)
+```
 {
 "title": "The Alchemist",
 "author": "Paulo Coelho",
@@ -73,8 +68,8 @@ Add a new book to the collection.
 "publishedYear": 1988,
 "available": true
 }
-
-# Use Postman or another API client to test this endpoint after running your app.
+```
+### Use Postman or another API client to test this endpoint after running your app.
 
 ### **Author**
 
