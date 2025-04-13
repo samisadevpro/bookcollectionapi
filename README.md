@@ -31,8 +31,8 @@ bookCollectionApi/
 ### 1. Clone the Repository:
 
 ```sh
-git clone https://github.com/samisadevpro/microproject-localcoffee-.git
-cd microproject-localcoffee
+https://github.com/samisadevpro/bookcollectionapi.git
+cd bookcollectionapi
 ```
 
 ### 2. Install Dependencies:
